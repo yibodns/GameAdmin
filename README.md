@@ -1,0 +1,2 @@
+# GameAdmin
+Game management system
